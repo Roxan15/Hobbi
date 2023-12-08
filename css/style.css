@@ -1,0 +1,30 @@
+.fondo {
+    margin-top: 0;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.contenedor {
+    text-align: center;
+    padding-top: 25vh;
+    padding-bottom: 20vh;
+}
+
+.margin {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.margin-left {
+    padding-left: 50%;
+}
+
+.margin-rigth {
+    padding-right: 50%;
+}
+
+footer {
+    height: 30%;
+}
